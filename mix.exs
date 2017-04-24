@@ -29,8 +29,8 @@ defmodule Cards.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:credo, "~> 0.7.3"},
-      {:inch_ex, "~> 0.5.6"}
+      {:credo, "~> 0.7.3", only: [:dev, :test]},
+      {:inch_ex, "~> 0.5.6", only: [:dev, :test]}
     ]
   end
 end

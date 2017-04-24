@@ -1,4 +1,5 @@
 # Cards
+ [![Inline docs](http://inch-ci.org/github/perrautc/elixir-cards.svg)](http://inch-ci.org/github/perrautc/elixir-cards)
 
 **TODO: Add description**
 

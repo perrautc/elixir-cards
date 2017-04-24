@@ -4,12 +4,12 @@ Generates a deck of cards and can perform all functions related to cards
 """
 
   @doc """
-  Says hello there
-  ## Example
-    iex> Cards.hello
-    "Hello there!"
+  Creates a deck of playing cards
+  ##example
+    iex> Cards.create_deck
+    ["Ace", "Two", "Three"]
   """
-  def hello do
-    "Hello there!"
+  def create_deck do
+    ["Ace", "Two", "Three"]
   end
 end

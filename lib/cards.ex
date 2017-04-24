@@ -7,7 +7,7 @@ Generates a deck of cards and can perform all functions related to cards
   Says hello there
   ## Example
     iex> Cards.hello
-    "Hello there"
+    "Hello there!"
   """
   def hello do
     "Hello there!"

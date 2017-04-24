@@ -1,4 +1,5 @@
 # Cards
+[![Build Status](https://semaphoreci.com/api/v1/cftdev/elixir-cards/branches/master/badge.svg)](https://semaphoreci.com/cftdev/elixir-cards) [![Coverage Status](https://coveralls.io/repos/github/perrautc/elixir-cards/badge.svg?branch=master)](https://coveralls.io/github/perrautc/elixir-cards?branch=master)
  [![Inline docs](http://inch-ci.org/github/perrautc/elixir-cards.svg)](http://inch-ci.org/github/perrautc/elixir-cards)
 
 **TODO: Add description**
